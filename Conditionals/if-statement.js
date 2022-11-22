@@ -27,6 +27,6 @@
 
 let sale = false;
 
-if(sale) {
+if (sale) {
   console.log('Time to buy!')
 }

@@ -26,7 +26,7 @@
 
 // let excited = true;
 // console.log(!excited); // Prints false
- 
+
 // let sleepy = false;
 // console.log(!sleepy); // Prints true
 // Essentially, the ! operator will either take a true value and pass back false, or it will take a false value and pass back true.
@@ -44,7 +44,7 @@ let mood = 'sleepy';
 let tirednessLevel = 6;
 
 if (mood === 'sleepy' && tirednessLevel > 8) {
-  console.log('time to sleep')
+    console.log('time to sleep')
 } else {
-  console.log('not bed time yet')
+    console.log('not bed time yet')
 }
