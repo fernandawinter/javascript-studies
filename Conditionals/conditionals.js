@@ -7,3 +7,5 @@
 // The bang operator, !, switches the truthiness and falsiness of a value.
 // The ternary operator is shorthand to simplify concise if...else statements.
 // A switch statement can be used to simplify the process of writing multiple else if statements. The break keyword stops the remaining cases from being checked and executed in a switch statement.
+
+// https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet
