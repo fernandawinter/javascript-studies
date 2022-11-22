@@ -11,3 +11,4 @@
 
 // https://www.codecademy.com/resources/docs/javascript
 // https://www.codecademy.com/workspaces/new
+// https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
