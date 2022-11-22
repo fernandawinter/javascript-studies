@@ -20,6 +20,8 @@
 // if...else statements allow us to automate solutions to yes-or-no questions, also known as binary decisions.
 
 
+// Add an else statement to the existing if statement. Inside the code block of the else statement, console.log() the string 'Time to wait for a sale.'
+
 let sale = true;
 
 if(sale) {
