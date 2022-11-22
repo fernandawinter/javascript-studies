@@ -48,8 +48,8 @@
 
 let userName = 'Fernanda';
 
-userName ? console.log(`Hello, ${userName}!`) 
-: console.log('Hello!');
+userName ? console.log(`Hello, ${userName}!`)
+  : console.log('Hello!');
 
 let userQuestion = 'Will I adopt a new puppy soon?';
 
@@ -61,7 +61,7 @@ console.log(randomNumber);
 
 let eightBall = '';
 
-switch(randomNumber) {
+switch (randomNumber) {
   case 0:
     eightBall = 'It is certain';
     break;
@@ -75,7 +75,7 @@ switch(randomNumber) {
     eightBall = 'Cannot predict now';
     break;
   case 4:
-    eightBall = 'Do not count on it'; 
+    eightBall = 'Do not count on it';
     break;
   case 5:
     eightBall = 'My sources say no';
