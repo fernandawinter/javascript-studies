@@ -20,3 +20,22 @@
 // It is important to distinguish that variables are not values; they contain values and represent them with a name. Observe the diagram with the colored boxes. Each box represents variables; the values are represented by the content, and the name is represented with the label.
 
 // In this lesson, we will cover how to use the var, let, and const keywords to create variables.
+
+
+
+
+// To learn more about variables take on these challenges!
+
+// Create variables and manipulate the values.
+// Check what happens when you try concatenating strings using variables of different data types.
+// Interpolate multiple variables into a string.
+// See what happens when you use console.log() on variables declared by different keywords(const, let, var) before they’re defined.For example:
+//     console.log(test1);
+
+// const test1 = 'figuring out quirks';
+// Find the data type of a variable’s value using the typeof keyword on a variable.
+// Use typeof to find the data type of the resulting value when you concatenate variables containing two different data types.
+
+    console.log(test1);
+
+const test1 = 'figuring out quirks';
