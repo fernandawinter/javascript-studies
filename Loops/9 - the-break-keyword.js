@@ -20,3 +20,11 @@
 //         Banana.
 // Orange you glad I broke out the loop!
 // break statements can be especially helpful when we’re looping through large data structures! With breaks, we can add test conditions besides the stopping condition, and exit the loop when they’re met.
+
+
+
+// Log each element from rapperArray in a for loop with the iterator variable i.
+
+// After the for loop, log the string "And if you don't know, now you know." to the console. Note: since there’s a single quote character, ', in our string, we can use double quotes around the string to make sure character prints.
+
+// Add a break inside your loop’s block that breaks out of the loop if the element at the current index in the rapperArray is 'Notorious B.I.G.'.
