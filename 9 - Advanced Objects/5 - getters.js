@@ -30,3 +30,17 @@
 // Another thing to keep in mind when using getter(and setter) methods is that properties cannot share the same name as the getter / setter function. If we do so, then calling the method will result in an infinite call stack error.One workaround is to add an underscore before the property name like we did in the example above.
 
 //     Great, let’s go getter!
+
+
+
+
+// In robot, create a getter method named energyLevel using the get keyword. Leave function body blank for now.
+
+// Inside the getter method, add an if statement to check if this._energyLevel is a number using the typeof operator. If that condition is truthy, return 'My current energy level is ENERGYLEVEL'. Replace ENERGYLEVEL with the value of this._energyLevel.
+// Make sure you return the string and not logging it to the console.
+
+// If this._energyLevel isn’t a number it could be that the _energyLevel property was altered. Let’s add a default return statement for when such a scenario arises.
+// Add an else statement that returns 'System malfunction: cannot retrieve energy level'.
+
+// Log the result of calling the getter method energyLevel on robot to the console.
+// Notice that the method will return a formatted response rather than just accessing a property!
