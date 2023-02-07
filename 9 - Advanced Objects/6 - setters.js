@@ -25,5 +25,10 @@
 
 // Like getter methods, there are similar advantages to using setter methods that include checking input, performing actions on properties, and displaying a clear intention for how the object is supposed to be used.Nonetheless, even with a setter method, it is still possible to directly reassign properties.For example, in the example above, we can still set._age directly:
 
-// person._age = 'forty-five'
-// console.log(person._age); // Prints forty-five
+person._age = 'forty-five'
+console.log(person._age); // Prints forty-five
+
+
+
+// Currently, in robot there is a getter method for numOfSensors but no setter method! What if we need to add or remove some sensors? Let’s fix that problem.
+// Add a setter method named numOfSensors using the set keyword. Provide a parameter of num. Leave the function body empty for now.
