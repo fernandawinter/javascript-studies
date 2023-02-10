@@ -15,6 +15,7 @@
 // https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-objects/cheatsheet
 
 
+
 const robot = {
     model: 'B-4MI',
     mobile: true,
