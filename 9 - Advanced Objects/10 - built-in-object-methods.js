@@ -8,3 +8,11 @@
 // Let’s get acquainted with some of these methods and their documentation.
 
 // Note: You will see errors as you work through this exercise, but by the end the errors will be fixed!
+
+
+
+
+
+
+// In main.js there is an object, robot. We’d like to grab the property names, otherwise known as keys, and save the keys in an array which is assigned to robotKeys. However, there’s something missing in the method call.
+// Find out what we have to include by reading MDN’s Object.keys() documentation.
